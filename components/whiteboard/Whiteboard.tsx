@@ -100,7 +100,6 @@ export default function Whiteboard() {
       
       // Insert the image into the whiteboard using the correct API
       editorInstance.insertMedia(blob, {
-        type: 'image',
         ...asset,
       });
       
