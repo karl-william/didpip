@@ -1,0 +1,4 @@
+#+title: Master
+* didpip
+Teachers create 'pips' basic ideas, which can be shared, used.
+Grow these into pipples.
